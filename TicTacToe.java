@@ -167,7 +167,7 @@ public class TicTacToe {
     int count = 0;
 
 
-    // These methods checks the winner by indexing
+    // These methods checks the winner by indexing.
     checkHorizontal(playGround, turn, count);
     checkVertical(playGround, turn, count);
     checkDigonal_1(playGround, turn, count);
